@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Site header general formatting */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ body {
     color: #ffffff;
 }
 
+/*Site header text format #1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*Site header text format #2 as embedded class*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Navigation menu header formatting*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +36,29 @@ body {
     font-size: 20px;
 }
 
+/*Navigation list specification*/
 .header nav ul {
     list-style-type: none;
 }
 
+/*Navigation list items display formatting*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*a tag text formatting*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*p tag text formatting*/
 p {
     font-size: 16px;
 }
 
+/*Display characteristics for top picture display*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +68,26 @@ p {
     background-position: center;
 }
 
+/*Image location for Main sections #1 and #3*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Image location for Main section #2*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Display characteristics for Main part of website*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Aside section general formatting */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,22 +99,26 @@ p {
     background-color: #2589bd;
 }
 
+/*Aside section pargraph text formatting */
 .benefit-lbc {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Aside section header text formatting */
 .benefit-lbc h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Aside section images formatting */
 .benefit-lbc img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Main section formatting */
 .center-header {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,10 +128,11 @@ p {
     color: #ffffff;
     
 }
+/*Section images sizing */
 .center-header img {
     max-height: 200px;
 }
-
+/*Section header text size */
 .center-header h2 {
     margin-bottom: 20px;
     font-size: 36px;
