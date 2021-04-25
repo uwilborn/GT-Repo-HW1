@@ -1,4 +1,4 @@
-# GT-Repo-HW1
+# Horiseon-Improved-Accessibility
 Week 1-Code Refactor Homework Repository
 
 Link for url (https://uwilborn.github.io/Horiseon-Improved-Accessibility/)
